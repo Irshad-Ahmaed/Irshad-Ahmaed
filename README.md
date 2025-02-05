@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Irshad! 👋
 
-<!--
-**Irshad-Ahmaed/Irshad-Ahmaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://img.shields.io/badge/visitors-0-blue)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding and open-source projects. Feel free to explore my repositories and connect with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Python
+- JavaScript
+- Typescript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Express
+- MongoDB
+- socket.io
+- Webhooks
+- Django
+- Flask
+- Fast api
+- Git
+- Docker
+
+## 📫 How to Reach Me
+- [Portfolio](https://irshad-portfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/irshad-profile)
