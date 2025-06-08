@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Irshad Ahmad</h1>
-<p>A Enthusiastic Passionate Web Developer</p>
+<p>An Enthusiastic Passionate Web Developer</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Irshad-Ahmaed.Irshad-Ahmaed&" />
